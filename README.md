@@ -2,6 +2,30 @@
 Basic API, with authorization and authentication token, written in python with micro framework flask.
 
 
+### endpoints:
+
+    /todo
+    
+    /users
+    
+    
+### methods:
+  
+    GET, POST, PUT, DELETE
+    
+### Database:
+
+    SQLite3
+    
+
+### How to run:
+  
+    python api.py
+    
+### Python version:
+
+   3.10.5
+
 ### ✨ Create user
 
 ![create_user](https://user-images.githubusercontent.com/88283829/213843650-9cfc1155-2f66-4e7b-b0b4-cbc215e00fbb.png)
