@@ -24,7 +24,7 @@ Basic API, with authorization and authentication token, written in python with m
     
 ### Python version:
 
-   3.10.5
+    3.10.5
 
 ### ✨ Create user
 
